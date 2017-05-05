@@ -21,6 +21,13 @@ module Humanize
       :point => 'virgül',
       :and => '',
       :comma => ''
+    },
+    :es => {
+      :negative => 'menos',
+      :zero => 'cero',
+      :point => 'punto',
+      :and => 'y',
+      :comma => ','
     }
   }
 end
